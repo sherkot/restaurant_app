@@ -1,0 +1,22 @@
+[{
+  "icon": "images/McDonald_logo.png",
+  "name": "McDonald's",
+  "type": "American Cousine",
+  "category": "fast-food",
+  "rating": 5,
+  "favourite": false
+},{
+  "icon": "images/Burger_King_logo.png",
+  "name": "Burger King",
+  "type": "American Cousine",
+  "category": "fast-food",
+  "rating": 4,
+  "favourite": false
+},{
+  "icon": "images/Dominos_Pizza_logo.png",
+  "name": "Domino's Pizza",
+  "type": "American Cousine",
+  "category": "fast-food",
+  "rating": 4.5,
+  "favourite": false
+}]
